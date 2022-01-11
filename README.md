@@ -1,0 +1,2 @@
+# Superstore-Excel-Project
+a superstore discrete data consisting of numerous rows and columns on which continuous insights are to be taken off , prediction of new techniques implementation which will help to increase Revenue and Enhance More Profits. Main achievement is to inspect and predict on the given data for more best possibilities to overcome the losses and enhance the flowing productivity.
